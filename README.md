@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Asgar Abbas
 
 
-- 👨‍🎓 I am currently a final year Master of computer application student.
+- 👨‍🎓 I am currently a first year Master of computer application student.
 - 🌱 I’m currently trying to explore and learn everything about Android development.
 - 🤔 I’m looking for Internship in Android development.
 - 📫 How to reach me: Follow me on social media.
