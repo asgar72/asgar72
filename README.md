@@ -6,4 +6,3 @@
 - 🤔 I’m looking for Internship in Android development.
 - 📫 How to reach me: Follow me on social media.
 - ⚡ Fun fact: Sleeping with a problem can actually solve it.
--->
