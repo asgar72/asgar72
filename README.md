@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/@asgarabbas20" target="blank"><img src="https://img.shields.io/twitter/follow/@asgarabbas20?logo=twitter&style=for-the-badge" alt="@asgarabbas20" /></a> </p>
 
+- 👨‍🎓 I am currently **a first year Master of computer application student.**
+
 - 🌱 I’m currently **trying to explore and learn everything about Android development.**
 
-- 📫 How to reach me **Follow me on social media.**
+- 🤔 I’m looking **for Internship in web development.**
 
 - ⚡ Fun fact **Sleeping with a problem can actually solve it.**
 
