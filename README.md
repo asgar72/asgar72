@@ -1,6 +1,6 @@
 <h1 align="center">Hi there,👋 I'm Asgar Abbas</h1>
 
-- 👨‍🎓 I am currently **a first year Master of computer application student.**
+- 📚 I am currently **Persuing MCA from RKDF University**
 
 - 🌱 I’m currently **trying to explore and learn everything about Android development.**
 
@@ -9,10 +9,6 @@
 - 📫 How to reach me: **Follow me on social media.** 
 
 - ⚡ Fun fact **Sleeping with a problem can actually solve it.**
-
-<p align="left">
-
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asgar72&show_icons=true&locale=en&layout=compact" alt="asgar72" /></p>
 
