@@ -6,8 +6,6 @@
 
 - 🤔 I’m looking **for Internship in Android development.**
 
-- 📫 How to reach me: **Follow me on social media.** 
-
 - ⚡ Fun fact **Sleeping with a problem can actually solve it.**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asgar72&show_icons=true&locale=en&layout=compact" alt="asgar72" /></p>
