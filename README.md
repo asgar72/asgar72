@@ -20,6 +20,5 @@
 ### Connect with me:
 
 
-<p><a href="https://github.com/asgar72" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://https://www.linkedin.com/in/asgar-abbas-91b9231aa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8jYrqoP6SXm3HgmXq%2BZYfQ%3D%3D/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:asgarabbas532@gmail.com?subject=Olá%20Punit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p><a href="https://github.com/asgar72" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/asgar-abbas-91b9231aa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:asgarabbas532@gmail.com?subject=Olá%20Punit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<br>
