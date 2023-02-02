@@ -1,6 +1,6 @@
 <h1 align="center">Hi there,👋 I'm Asgar Abbas</h1>
 
-- 📚 I am currently **Persuing MCA from RKDF University**
+- 📚 I am currently **Persuing MCA from RKDF University.**
 
 - 🌱 I’m currently **trying to explore and learn everything about Android development.**
 
