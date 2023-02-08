@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently **trying to explore and learn everything about Android development.**
 
-- 🤔 I’m looking **for Internship in Android development.**
+- 🤔 I’m looking **for Internship in Android development .**
 
 - ⚡ Fun fact **Sleeping with a problem can actually solve it.**
 
