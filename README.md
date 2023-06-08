@@ -13,10 +13,10 @@
 
 
 ###
-<!-- 
+
 ![ github stats](https://github-readme-stats.vercel.app/api?username=asgar72&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asgar72&theme=tokyonight" alt="mystreak"/>
-![ Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asgar72&theme=tokyonight&layout=compact) -->
+![ Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asgar72&theme=tokyonight&layout=compact)
 
 
 
@@ -31,14 +31,14 @@
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/syed_asghar_72)
 <!-- [![Dev Community](https://img.shields.io/badge/Dev_Community-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/user_name) -->
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=asgar72&show_icons=true&theme=radical&count_private=true" alt="my github stats" width="420"/>&nbsp; 
 <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=asgar72&theme=radical&cache_seconds=30&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asgar72&langs_count=4&layout=compact&theme=radical&count_private=true" alt="languages" height="165">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asgar72&theme=radical"  />
   
-  ### Thanks for visiting :heart:
-</p>
+  
+</p> -->
 
-
+### Thanks for visiting :heart:
