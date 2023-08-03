@@ -12,7 +12,7 @@
 - ⚡ Fun fact **Sleeping with a problem can actually solve it.**
 
 
-
+<!-- ![profile count](https://komarev.com/ghpvc/?username=asgar72&color=red)&nbsp; -->
 ###
 
 ![ github stats](https://github-readme-stats.vercel.app/api?username=asgar72&show_icons=true&theme=tokyonight)
