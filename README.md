@@ -1,6 +1,6 @@
 <h1 align="center">Hi there,👋 I'm <a href="https://asgar72.github.io">Asgar Abbas</a></h1>
 
-<!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
+ ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 - 🔭  You can check my portfolio here [**Portfolio**](https://asgar72.github.io)
 
 - 📚 I am currently **Pursuing MCA from RKDF University.**
